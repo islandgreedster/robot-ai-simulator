@@ -1,5 +1,6 @@
 
 # 🤖 Robot AI Simulator  
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 A Python robot simulator where a robot moves on a **2D grid**, avoids **obstacles**, and explores the world step by step.  
 Created with passion by **islandgreedster 🚀**  
